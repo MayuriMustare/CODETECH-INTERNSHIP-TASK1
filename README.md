@@ -1,16 +1,9 @@
 # CODETECH-INTERNSHIP-TASK1
- Name: MAYURI MUSTARE
-  Company: CODETECH IT SOLUTION
-  ID: CT08EYS
-  Domain: Python Programming Intern
-  Duration: December 2024 to January 2025
-  Mentor: SRAVANI GOUNI
+ Name: MAYURI MUSTARE   Company: CODETECH IT SOLUTION   ID: CT08EYS   Domain: Python Programming Intern    Duration: December 2024 to January 2025   Mentor: SRAVANI GOUNI
 
 Overview of the Project
 
-
 Project: Simple Calculator
-
 
 A] Objective: 
 The objective of this program is to create a simple and interactive calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division. It ensures user-friendly interaction, robust input validation, and error handling to deliver accurate results.

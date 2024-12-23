@@ -1,5 +1,10 @@
 # CODETECH-INTERNSHIP-TASK1
- Name: MAYURI MUSTARE   Company: CODETECH IT SOLUTION   ID: CT08EYS   Domain: Python Programming Intern    Duration: December 2024 to January 2025   Mentor: SRAVANI GOUNI
+ Name: MAYURI MUSTARE  
+ Company: CODETECH IT SOLUTION  
+ ID: CT08EYS 
+ Domain: Python Programming Intern  
+ Duration: December 2024 to January 2025 
+ Mentor: SRAVANI GOUNI
 
 Overview of the Project
 

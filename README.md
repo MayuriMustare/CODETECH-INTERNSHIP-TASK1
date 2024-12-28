@@ -1,7 +1,7 @@
 
-# CODETECH-INTERNSHIP-TASK1
+# CODTECH-INTERNSHIP-TASK1
  Name: MAYURI MUSTARE  
- Company: CODETECH IT SOLUTION  
+ Company: CODTECH IT SOLUTION  
  ID: CT08EYS  
  Domain: Python Programming Intern  
  Duration: December 2024 to January 2025 

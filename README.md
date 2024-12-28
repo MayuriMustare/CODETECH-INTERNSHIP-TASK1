@@ -23,6 +23,7 @@ B] Key Activities:
 
 
 C] Technologies Used:
+
 i] Programming Language: Python
 The entire program is implemented in Python, utilizing its simplicity and capabilities for arithmetic operations and user interaction.
 

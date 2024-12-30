@@ -13,7 +13,7 @@
  
  Mentor: SRAVANI GOUNI
 
-# Overview of the Project
+# Overview of the Project:
 
 # Project: Simple Calculator
 

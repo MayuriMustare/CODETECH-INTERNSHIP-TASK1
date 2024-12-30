@@ -1,28 +1,34 @@
 
 # CODTECH-INTERNSHIP-TASK1
+
  Name: MAYURI MUSTARE  
+ 
  Company: CODTECH IT SOLUTION  
+ 
  ID: CT08EYS  
+ 
  Domain: Python Programming Intern  
+ 
  Duration: December 2024 to January 2025 
+ 
  Mentor: SRAVANI GOUNI
 
-Overview of the Project
+# Overview of the Project
 
-Project: Simple Calculator
+# Project: Simple Calculator
 
-A] Objective: 
+# A] Objective: 
 The objective of this program is to create a simple and interactive calculator for performing basic arithmetic operations like addition, subtraction, multiplication, and division. It ensures user-friendly interaction, robust input validation, and error handling to deliver accurate results.
 
 
-B] Key Activities:
+# B] Key Activities:
 1. Displaying Menu Options: Presenting the user with a clear list of arithmetic operations (addition, subtraction, multiplication, division) to choose from.
 2. Taking User Input: Prompting the user to select an operation and input two numeric values for the calculation.
 3. Validating Input: Ensuring that the operation choice is valid and the numeric inputs are properly formatted, while handling errors like invalid entries or division by zero.
 4. Performing Calculations: Executing the selected operation and computing the result based on the user's inputs.
 
 
-C] Technologies Used:
+# C] Technologies Used:
 
 i] Programming Language: Python
 The entire program is implemented in Python, utilizing its simplicity and capabilities for arithmetic operations and user interaction.
